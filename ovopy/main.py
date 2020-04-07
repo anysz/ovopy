@@ -11,7 +11,7 @@ class OVO(object):
 
 			'base_url'    : 'https://api.ovo.id/',
 			'app_id'      : 'C7UMRSMFRZ46D9GW9IK7',
-	  		'app_version' : '2.8.0',
+	  		'app_version' : '3.8.1',
 			'os_name'     : 'Android',
 	 		'os_version'  : '8.1.0',
 			'mac_address' : '02:00:00:44:55:66',
